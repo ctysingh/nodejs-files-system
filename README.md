@@ -6,4 +6,5 @@ Example#1 watcher.js
 example#2 file  watcher-argv.js
 
 example #3
-Spawning a child process
+Spawning a child process. Nodejs contains a module called child_process that
+helps to create a child process
